@@ -1,6 +1,6 @@
 <template>
   <div v-if="event" class="flex flex-col items-center">
-    <img :src="'/'+ event.image" alt="Event image" class="w-full h-64 object-cover mb-4">
+    <img :src="event.image" alt="Event image" class="w-full h-64 object-cover mb-4">
     <h1 class="text-3xl font-bold">{{ event.title }}</h1>
     <p class="my-4">
       Start date: <span class="text-gray-500">{{ formatDate(event.start) }}</span>

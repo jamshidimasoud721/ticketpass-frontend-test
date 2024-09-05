@@ -1,7 +1,7 @@
 <template>
   <div class="border rounded-lg shadow-md p-4">
     <div class="mb-4">
-        <img :src="'/'+ event.image" alt="Event image" class="w-full  object-cover mb-4">
+        <img :src="event.image" alt="Event image" class="w-full  object-cover mb-4">
     </div>
     <div class="text-center">
       <h3 class="text-lg font-semibold mb-2">{{ event.title }}</h3>

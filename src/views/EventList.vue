@@ -6,14 +6,12 @@
     <div class="mt-8 flex justify-center gap-1">
       <button
           @click="prevPage"
-          :disabled="currentPage === 1"
           class="px-4 py-2 bg-gray-200 text-gray-700 rounded-l-lg"
       >
         Previous
       </button>
       <button
           @click="nextPage"
-          :disabled="currentPage === totalPages"
           class="px-4 py-2 bg-gray-200 text-gray-700 rounded-r-lg"
       >
         Next
