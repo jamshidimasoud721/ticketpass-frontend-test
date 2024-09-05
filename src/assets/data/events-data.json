@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "title": "Jazz Festival",
+        "start": "2024-09-02T10:00:00Z",
+        "end": "2024-09-02T11:30:00Z",
+        "description": "<p><strong>Immerse yourself in the soulful sounds of jazz</strong> at our annual Jazz Festival.</p><p>Discover new favorites and enjoy live performances from renowned musicians.</p>",
+        "image": "images/1.webp"
+    },
+    {
+        "id": 2,
+        "title": "Electronic Music Showcase",
+        "start": "2024-09-03T14:00:00Z",
+        "end": "2024-09-03T16:00:00Z",
+        "description": "<p><strong>Dance the night away</strong> to the latest electronic music trends from top DJs.</p><p>Feel the energy of the crowd as you groove to the beats.</p>",
+        "image": "images/2.webp"
+    },
+    {
+        "id": 3,
+        "title": "Rock Music Concert",
+        "start": "2024-09-04T15:30:00Z",
+        "end": "2024-09-04T17:00:00Z",
+        "description": "<p><strong>Let the music move you</strong> at our Rock Music Concert.</p><p>Feel the energy of the crowd as you rock out to your favorite bands.</p>",
+        "image": "images/3.webp"
+    },
+    {
+        "id": 4,
+        "title": "World Music Festival",
+        "start": "2024-09-05T09:00:00Z",
+        "end": "2024-09-05T10:30:00Z",
+        "description": "<p><strong>Discover new rhythms and melodies</strong> from around the world at our World Music Festival.</p><p>Explore the diverse sounds of global cultures.</p>",
+        "image": "images/4.webp"
+    },
+    {
+        "id": 5,
+        "title": "Classical Music Concert",
+        "start": "2024-09-06T13:00:00Z",
+        "end": "2024-09-06T15:00:00Z",
+        "description": "<p><strong>Let the timeless melodies transport you</strong> to a world of elegance and grace at our Classical Music Concert.</p><p>Experience the beauty of symphonic music.</p>",
+        "image": "images/5.webp"
+    },
+    {
+        "id": 6,
+        "title": "Hip Hop Festival",
+        "start": "2024-09-09T11:00:00Z",
+        "end": "2024-09-09T12:30:00Z",
+        "description": "<p><strong>Witness the energy and creativity of hip hop artists</strong> at our Hip Hop Festival.</p><p>Experience the raw talent and powerful lyrics that define this genre.</p>",
+        "image": "images/6.webp"
+    },
+    {
+        "id": 7,
+        "title": "Country Music Festival",
+        "start": "2024-09-10T12:00:00Z",
+        "end": "2024-09-10T14:00:00Z",
+        "description": "<p><strong>Get your boots on and join the fun</strong> at our Country Music Festival.</p><p>Enjoy the soulful sounds of country music and line dancing.</p>",
+        "image": "images/7.webp"
+    },
+    {
+        "id": 8,
+        "title": "Indie Music Festival",
+        "start": "2024-09-11T16:00:00Z",
+        "end": "2024-09-11T17:30:00Z",
+        "description": "<p><strong>Discover up-and-coming indie bands and artists</strong> at our Indie Music Festival.</p><p>Support the next generation of music talent and find your new favorite band.</p>",
+        "image": "images/8.webp"
+    },
+    {
+        "id": 9,
+        "title": "Music and Arts Festival",
+        "start": "2024-09-12T09:00:00Z",
+        "end": "2024-09-13T17:00:00Z",
+        "description": "<p><strong>Immerse yourself in a vibrant cultural experience</strong> at our Music and Arts Festival.</p><p>Enjoy music, art installations, and workshops.</p>",
+        "image": "images/9.webp"
+    },
+    {
+        "id": 10,
+        "title": "Holiday Music Concert",
+        "start": "2024-12-25T18:00:00Z",
+        "end": "2024-12-26T01:00:00Z",
+        "description": "<p><strong>Get into the spirit of the season</strong> with our Holiday Music Concert.</p><p>Enjoy heartwarming performances of festive music and carols.</p>",
+        "image": "images/10.webp"
+    },
+    {
+        "id": 11,
+        "title": "New Year's Eve Dance Party",
+        "start": "2024-12-31T23:00:00Z",
+        "end": "2025-01-01T02:00:00Z",
+        "description": "<p><strong>Celebrate the new year in style</strong> with our New Year's Eve Dance Party.</p><p>Dance the night away to a mix of music genres and make unforgettable memories.</p>",
+        "image": "images/11.webp"
+    },
+    {
+        "id": 12,
+        "title": "Halloween Music Festival",
+        "start": "2024-10-15T17:00:00Z",
+        "end": "2024-10-16T00:00:00Z",
+        "description": "<p><strong>Get into the Halloween spirit</strong> with our Halloween Music Festival.</p><p>Enjoy spooky-themed music, costume contests, and more.</p>",
+        "image": "images/12.webp"
+    },
+    {
+        "id": 13,
+        "title": "Summer Music Festival",
+        "start": "2024-11-20T20:00:00Z",
+        "end": "2024-11-21T01:00:00Z",
+        "description": "<p><strong>Celebrate the summer</strong> with our Summer Music Festival.</p><p>Enjoy live performances, food, drinks, and good company.</p>",
+        "image": "images/13.webp"
+    }
+]
